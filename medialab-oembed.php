@@ -1,9 +1,9 @@
 <?php
 /**
- * Plugin Name: MediaLab oembed
- * Description: Register MediaLab as a oEmbed provider
+ * Plugin Name: MediaLab oEmbed
+ * Description: Register MediaLab as an oEmbed provider
  * Version: 0.1
- * Author: MediaLab Online
+ * Author: MediaLab Online BV
  * Author URI: https://www.medialab.co
  */
 define('MEDIALAB_PLUGIN_DIR', plugin_dir_path( __FILE__ ));
